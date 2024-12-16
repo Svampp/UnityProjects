@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Platformer2D.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\AllProjects\C++(UnrealEngine)\2DPlatformer\Platformer2D\Intermediate\Build\Win64\x64\Platformer2DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\AllProjects\C++(UnrealEngine)\2DPlatformer\Platformer2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Platformer2D\Platformer2D.cpp.obj"
+"D:\AllProjects\C++(UnrealEngine)\2DPlatformer\Platformer2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Platformer2D\PerModuleInline.gen.cpp.obj"
+"D:\AllProjects\C++(UnrealEngine)\2DPlatformer\Platformer2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Platformer2D\Default.rc2.res"
+/OUT:"D:\AllProjects\C++(UnrealEngine)\2DPlatformer\Platformer2D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Platformer2D\UnrealEditor-Platformer2D.lib"

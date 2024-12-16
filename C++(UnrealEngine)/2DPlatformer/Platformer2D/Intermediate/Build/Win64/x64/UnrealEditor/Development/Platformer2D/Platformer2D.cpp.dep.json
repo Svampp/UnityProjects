@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\allprojects\\c++(unrealengine)\\2dplatformer\\platformer2d\\source\\platformer2d\\platformer2d.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\allprojects\\c++(unrealengine)\\2dplatformer\\platformer2d\\intermediate\\build\\win64\\x64\\platformer2deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\allprojects\\c++(unrealengine)\\2dplatformer\\platformer2d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\platformer2d\\definitions.platformer2d.h",
+            "d:\\allprojects\\c++(unrealengine)\\2dplatformer\\platformer2d\\source\\platformer2d\\platformer2d.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
