@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Platformer2D",
+			"Path": "..\\Source\\Platformer2D.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Platformer2DEditor",
+			"Path": "..\\Source\\Platformer2DEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
