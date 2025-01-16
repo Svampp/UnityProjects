@@ -1,0 +1,2 @@
+It is a game in which the player plays as a tank and shoots at obstacles, when hitting an object, it moves to the inventory, saving the inventory works using json.
+The codes are contained in Assets --> Scripts
