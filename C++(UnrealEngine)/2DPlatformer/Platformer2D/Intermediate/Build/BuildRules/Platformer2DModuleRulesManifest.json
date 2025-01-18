@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\AllProjects\\C++(UnrealEngine)\\2DPlatformer\\Platformer2D\\Source\\Platformer2D\\Platformer2D.Build.cs",
-		"D:\\AllProjects\\C++(UnrealEngine)\\2DPlatformer\\Platformer2D\\Source\\Platformer2D.Target.cs",
-		"D:\\AllProjects\\C++(UnrealEngine)\\2DPlatformer\\Platformer2D\\Source\\Platformer2DEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.0"
-}
