@@ -1,2 +1,1 @@
-A game in which the player goes from room to room and in each room the player must defeat enemies and at the end reach the final room and take the treasure.
-The codes are contained in Assets --> Scripts
+A game where the player progresses through multiple rooms, defeating enemies in each one to reach the final room and claim the treasure.
