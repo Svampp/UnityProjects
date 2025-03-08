@@ -1,2 +1,1 @@
-A small demo game that implements collecting items into inventory using json.
-The codes are contained in Assets --> Scripts
+A simple demo game showcasing item collection and inventory management using JSON for data handling.
