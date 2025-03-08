@@ -1,2 +1,1 @@
-A small RPG game in which the player communicates with NPCs, completes their tasks and fights enemies.
-The codes are contained in Assets --> Scripts
+A compact RPG game where the player interacts with NPCs, completes quests, and battles enemies.
