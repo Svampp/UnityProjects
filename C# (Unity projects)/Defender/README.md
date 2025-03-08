@@ -1,2 +1,1 @@
-A game that shows the work of PlayerPrefs, the player shoots at asteroids, the best result is saved in the game.
-The codes are contained in Assets --> Scripts
+A space-themed game demonstrating the use of PlayerPrefs for data persistence. The player engages in shooting asteroids, with the highest score being saved.
