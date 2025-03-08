@@ -1,2 +1,0 @@
-Basic prototype of a clicker game, with different levels of difficulty, the game has objects that add points to the player, as well as objects that take away points.
-The codes are contained in Assets --> Scripts
