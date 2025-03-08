@@ -1,2 +1,1 @@
-A small game in which the player can walk around the game world, receive quests from characters, complete them, and also fight enemies.
-The codes are contained in Assets --> Scripts
+A small-scale game where the player can explore the world, accept and complete quests from NPCs, and engage in combat with enemies.
