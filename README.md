@@ -32,7 +32,8 @@ Welcome to my repository of Unity and Unreal Engine game projects! Here you can 
 ### 🔵 **C++ Console Apps**
 | 📌 Name | 🛠️ Description | 🔗 Link |
 |-------------|--------------|-----------|
-| **TicTacToe** | A simple console-based Tic-Tac-Toe game implemented in C++. | [TicTacToe source code](https://github.com/Svampp/AllProjects/tree/main/C%2B%2B(ConsoleApps)/TicTacToe/TicTacToe)|
+| **TicTacToe** | A simple console-based Tic-Tac-Toe game implemented in C++. | [TicTacToe source code](https://github.com/Svampp/AllProjects/blob/main/C%2B%2B(ConsoleApps)/TicTacToe/TicTacToe/TicTacToe.cpp)|
+| **Text Adventure game** | The game is in development... |
 | **More projects are in development, please wait......** |
 
 ### 🟡 **Unreal Engine (C++)**
