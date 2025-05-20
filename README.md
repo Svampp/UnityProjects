@@ -1,11 +1,10 @@
 🎮 My Game Projects
-Welcome to my repository of Unity and Unreal Engine game projects! Here you can find my works in C# and C++, each of which is located in a separate folder with a description and source code.
+Welcome to my repository of Unity game projects! Here, you can find my works in C#, each located in a separate folder with a description and source code.
 
 📂 Repository structure:
 
-- Projects are divided by programming languages: C# and C++.
-- Each project folder contains a README.md file with a description of the game.
-- The source code is in Assets --> Scripts for Unity and in Source for Unreal Engine.
+- Each project folder contains a README.md file with a game description.
+- The source code is in Assets --> Scripts.
 
 ## 🚀 Project navigation
 
@@ -27,17 +26,3 @@ Welcome to my repository of Unity and Unreal Engine game projects! Here you can 
 | **Prototype3** | A prototype of a basic game where the player must jump over obstacles to progress.| [Prototype3 source code](https://github.com/Svampp/AllProjects/tree/main/C%23%20(Unity%20projects)/BasicPrototypes/Prototype3/Prototype3/Assets/Scripts) |
 | **Prototype4** | A prototype of a basic sumo battle game where the player controls a ball on a platform and must push the enemy off.| [Prototype4 source code](https://github.com/Svampp/AllProjects/tree/main/C%23%20(Unity%20projects)/BasicPrototypes/Prototype4/prototype4/Assets/Scripts) |
 | **Prototype5** |A basic prototype of a clicker game with multiple difficulty levels. The game features objects that add points to the player's score, as well as objects that deduct points.| [Prototype5 source code](https://github.com/Svampp/AllProjects/tree/main/C%23%20(Unity%20projects)/BasicPrototypes/Prototype5/prototype5/Assets/Scripts) |
-
-
-### 🔵 **C++ Console Apps**
-| 📌 Name | 🛠️ Description | 🔗 Link |
-|-------------|--------------|-----------|
-| **TicTacToe** | A simple console-based Tic-Tac-Toe game implemented in C++. | [TicTacToe source code](https://github.com/Svampp/AllProjects/blob/main/C%2B%2B(ConsoleApps)/TicTacToe/TicTacToe/TicTacToe.cpp)|
-| **Text Adventure game** | The game is in development... |
-| **More projects are in development, please wait......** |
-
-### 🟡 **Unreal Engine (C++)**
-| 📌 Name | 🛠️ Description | 🔗 Link |
-|-------------|--------------|-----------|
-| **BasicCharacterMovementProto** | The game is in development... |
-| **RPG_Game** | The game is in development... |
