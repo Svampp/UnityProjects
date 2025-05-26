@@ -1,8 +1,50 @@
+/*
 
-C\# (Unity projects)/Luasto/Llluasto/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib
-C\# (Unity projects)/Downfall/Downfall/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
-C\# (Unity projects)/Downfall/Downfall/Builds/PC/Downfall_Data/sharedassets0.assets.resS
-C\# (Unity projects)/Downfall/Downfall/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib
-C\# (Unity projects)/Defender/Defender/Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a
-C\# (Unity projects)/Defender/Defender/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a
-C\# (Unity projects)/Defender/Defender/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib
+
+!.gitignore
+!README.md
+
+!Assets/
+Assets/*
+!Assets/Scripts/
+Assets/Scripts/*
+
+!Assets/Scripts/**
+
+
+!Assets/**/*.asmdef
+
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/UserSettings/
+/Packages/
+/ProjectSettings/
+
+Assets/**/*.meta
+Assets/**/*.prefab
+Assets/**/*.unity
+Assets/**/*.mat
+Assets/**/*.asset
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.fbx
+Assets/**/*.wav
+Assets/**/*.mp3
+Assets/**/*.shader
+Assets/**/*.controller
+Assets/**/*.anim
+
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+
+.DS_Store
+Thumbs.db
