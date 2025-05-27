@@ -1,15 +1,15 @@
-🎮 My Game Projects
+My Game Projects
 Welcome to my repository of Unity game projects! Here, you can find my works in C#, each located in a separate folder with a description and source code.
 
-📂 Repository structure:
+Repository structure:
 
 - Each project folder contains a README.md file with a game description.
 - The source code is in Assets --> Scripts.
 
-## 🚀 Project navigation
+## Project navigation
 
-### 🟢 **Unity (C#)**
-| 📌 Name | 🛠️ Description | 🔗 Link |
+### **Unity (C#)**
+| Name |  Description | Link |
 |-------------|--------------|-----------|
 | **Defender** | A space-themed game demonstrating the use of PlayerPrefs for data persistence. The player engages in shooting asteroids, with the highest score being saved.| [Defender source code](https://github.com/Svampp/AllProjects/tree/main/C%23%20(Unity%20projects)/Defender/Defender/Assets/Scripts) |
 | **Downfall** | A compact RPG game where the player interacts with NPCs, completes quests, and battles enemies. | [Downfall source code](https://github.com/Svampp/AllProjects/tree/main/C%23%20(Unity%20projects)/Downfall/Downfall/Assets/Downfall/Scripts) |
